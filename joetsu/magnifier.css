@@ -1,0 +1,26 @@
+A {color: #000080; 
+            text-decoration: none;}
+A:hover {text-decoration:underline;
+            color: #b8860b;}
+P {margin-top: 5px;
+            margin-bottom:5px;
+            margin-left: 10px;
+            margin-right:10px;
+            line-height:130%}
+.copyright {border:inset thin;
+            text-align:center;
+            font-size:9pt;
+            margin:0px;
+            background: #fafad2;}
+DIV {position:absolute;}
+.large     {top:0px;}
+.pointer   {left:0px;
+            visibility: hidden}
+.small     {left:0px;
+            top:0px;}
+.description {background: #ffdfdf;
+            border:ridge thin;
+            border-color: #daa520;
+            font-size: 9pt;}
+SPAN.wm    {font-weight:bold;
+            font-style:italic;}
